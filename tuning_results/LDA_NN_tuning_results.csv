@@ -1,0 +1,76 @@
+,param_activation,param_hidden_layer_sizes,param_learning_rate_init,param_max_iter,params,mean_test_score,std_test_score,rank_test_score
+0,logistic,(),0.001,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9403137070729273,0.0014825971881078203,50
+1,logistic,(),0.01,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.941566693771029,0.0022952537019265934,45
+2,logistic,(),0.1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9421084024383081,0.007883626848807244,44
+3,logistic,(),1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (), 'learning_rate_init': 1, 'max_iter': 1000}",0.9333855361986348,0.012228454809596667,56
+4,logistic,(),10,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (), 'learning_rate_init': 10, 'max_iter': 1000}",0.923849467068883,0.02239238916272189,57
+5,logistic,2,0.001,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9551351919197923,0.002715809810025633,20
+6,logistic,2,0.01,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9552599666291076,0.002622220767060384,10
+7,logistic,2,0.1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9545549605444551,0.0020702220869731765,25
+8,logistic,2,1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 2, 'learning_rate_init': 1, 'max_iter': 1000}",0.9543700401611677,0.003909834200544625,27
+9,logistic,2,10,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 2, 'learning_rate_init': 10, 'max_iter': 1000}",0.7633842553621607,0.38171578667980105,64
+10,logistic,4,0.001,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9554346280909499,0.0026624427132748937,2
+11,logistic,4,0.01,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9551748979253532,0.002713155152447419,17
+12,logistic,4,0.1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9553926522376258,0.0024851278123385304,4
+13,logistic,4,1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 4, 'learning_rate_init': 1, 'max_iter': 1000}",0.9543960467261284,0.0026806053571664518,26
+14,logistic,4,10,1000,"{'activation': 'logistic', 'hidden_layer_sizes': 4, 'learning_rate_init': 10, 'max_iter': 1000}",0.9382297912143229,0.02844393873598262,54
+15,logistic,"(2, 2)",0.001,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9551754809148031,0.0027718178705207516,16
+16,logistic,"(2, 2)",0.01,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9551067473174175,0.0026849117461102945,22
+17,logistic,"(2, 2)",0.1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9541884735649161,0.0041005377374621075,28
+18,logistic,"(2, 2)",1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 1, 'max_iter': 1000}",0.8980037933965457,0.11517871474261697,58
+19,logistic,"(2, 2)",10,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 10, 'max_iter': 1000}",0.4006057076295866,0.32709319057968966,72
+20,logistic,"(4, 4)",0.001,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9552882906575133,0.002622891708742525,8
+21,logistic,"(4, 4)",0.01,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9552073004185484,0.0025542989602717024,13
+22,logistic,"(4, 4)",0.1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.955348214119786,0.00227497007536367,5
+23,logistic,"(4, 4)",1,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 1, 'max_iter': 1000}",0.9539830233475431,0.003888138658677237,29
+24,logistic,"(4, 4)",10,1000,"{'activation': 'logistic', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 10, 'max_iter': 1000}",0.13353523587652885,0.2670704717530577,74
+25,tanh,(),0.001,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9403872572211279,0.0016858891619159584,48
+26,tanh,(),0.01,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9402715470487047,0.0026913479548758387,51
+27,tanh,(),0.1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9387252443414196,0.0071013644551870475,53
+28,tanh,(),1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (), 'learning_rate_init': 1, 'max_iter': 1000}",0.9445737350434078,0.012718198934221756,43
+29,tanh,(),10,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (), 'learning_rate_init': 10, 'max_iter': 1000}",0.9375439855918218,0.015183964905168478,55
+30,tanh,2,0.001,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9551092828724294,0.0027529371649804937,21
+31,tanh,2,0.01,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9553397033636231,0.0023572346399327654,6
+32,tanh,2,0.1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9551437103978818,0.0027278138093698094,19
+33,tanh,2,1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 2, 'learning_rate_init': 1, 'max_iter': 1000}",0.8943055463923791,0.11335831109846006,61
+34,tanh,2,10,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 2, 'learning_rate_init': 10, 'max_iter': 1000}",0.7582270178268828,0.37915357789698845,65
+35,tanh,4,0.001,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9552139239012073,0.0027258662659288904,12
+36,tanh,4,0.01,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9554568383713182,0.0027522957784813745,1
+37,tanh,4,0.1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9547416563901068,0.0026255719761954103,24
+38,tanh,4,1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 4, 'learning_rate_init': 1, 'max_iter': 1000}",0.9530141597997364,0.0036951568135616874,34
+39,tanh,4,10,1000,"{'activation': 'tanh', 'hidden_layer_sizes': 4, 'learning_rate_init': 10, 'max_iter': 1000}",0.9509021445834336,0.004218893673855975,38
+40,tanh,"(2, 2)",0.001,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9553066698036886,0.0026675017752346548,7
+41,tanh,"(2, 2)",0.01,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9552544751540892,0.0024434029490213237,11
+42,tanh,"(2, 2)",0.1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9535119578626974,0.0030117837814857495,33
+43,tanh,"(2, 2)",1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 1, 'max_iter': 1000}",0.9457433826187189,0.010785151030535388,41
+44,tanh,"(2, 2)",10,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 10, 'max_iter': 1000}",0.4561945195398809,0.3860493192239263,71
+45,tanh,"(4, 4)",0.001,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9551741213128899,0.0025358750570003493,18
+46,tanh,"(4, 4)",0.01,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9551833960869031,0.0028054661442404954,14
+47,tanh,"(4, 4)",0.1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9528731949545511,0.0045457615866749766,35
+48,tanh,"(4, 4)",1,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 1, 'max_iter': 1000}",0.950640028591315,0.006673256816873539,39
+49,tanh,"(4, 4)",10,1000,"{'activation': 'tanh', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 10, 'max_iter': 1000}",0.5362180895296392,0.44168873597675895,66
+50,relu,(),0.001,1000,"{'activation': 'relu', 'hidden_layer_sizes': (), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9403872126444284,0.0016000447235416024,49
+51,relu,(),0.01,1000,"{'activation': 'relu', 'hidden_layer_sizes': (), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9392576168967715,0.001723656956841157,52
+52,relu,(),0.1,1000,"{'activation': 'relu', 'hidden_layer_sizes': (), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9410433218380234,0.004071097851146625,46
+53,relu,(),1,1000,"{'activation': 'relu', 'hidden_layer_sizes': (), 'learning_rate_init': 1, 'max_iter': 1000}",0.9453125742264102,0.008584232078292797,42
+54,relu,(),10,1000,"{'activation': 'relu', 'hidden_layer_sizes': (), 'learning_rate_init': 10, 'max_iter': 1000}",0.9476091615336294,0.0054148072977954365,40
+55,relu,2,0.001,1000,"{'activation': 'relu', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9522592254477722,0.0051929914239101475,36
+56,relu,2,0.01,1000,"{'activation': 'relu', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.01, 'max_iter': 1000}",0.8973257929837659,0.11469415124814676,60
+57,relu,2,0.1,1000,"{'activation': 'relu', 'hidden_layer_sizes': 2, 'learning_rate_init': 0.1, 'max_iter': 1000}",0.8392468149471186,0.1400799029480907,63
+58,relu,2,1,1000,"{'activation': 'relu', 'hidden_layer_sizes': 2, 'learning_rate_init': 1, 'max_iter': 1000}",0.8770085852910346,0.10608944869146794,62
+59,relu,2,10,1000,"{'activation': 'relu', 'hidden_layer_sizes': 2, 'learning_rate_init': 10, 'max_iter': 1000}",0.13353523587652885,0.2670704717530577,74
+60,relu,4,0.001,1000,"{'activation': 'relu', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9520096436981191,0.005849192118410215,37
+61,relu,4,0.01,1000,"{'activation': 'relu', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9552801434322499,0.002523711079076143,9
+62,relu,4,0.1,1000,"{'activation': 'relu', 'hidden_layer_sizes': 4, 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9539805680043626,0.004278055763160315,30
+63,relu,4,1,1000,"{'activation': 'relu', 'hidden_layer_sizes': 4, 'learning_rate_init': 1, 'max_iter': 1000}",0.9408634513950634,0.014141897801834372,47
+64,relu,4,10,1000,"{'activation': 'relu', 'hidden_layer_sizes': 4, 'learning_rate_init': 10, 'max_iter': 1000}",0.32014106934565056,0.40096967122807714,73
+65,relu,"(2, 2)",0.001,1000,"{'activation': 'relu', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.897889420063516,0.11494573298014941,59
+66,relu,"(2, 2)",0.01,1000,"{'activation': 'relu', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9548654003274374,0.002645423045540126,23
+67,relu,"(2, 2)",0.1,1000,"{'activation': 'relu', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9538808686470913,0.0022991462989416923,31
+68,relu,"(2, 2)",1,1000,"{'activation': 'relu', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 1, 'max_iter': 1000}",0.4568568683004184,0.3868902008172488,70
+69,relu,"(2, 2)",10,1000,"{'activation': 'relu', 'hidden_layer_sizes': (2, 2), 'learning_rate_init': 10, 'max_iter': 1000}",0.5341564238284919,0.26707821359662093,68
+70,relu,"(4, 4)",0.001,1000,"{'activation': 'relu', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.001, 'max_iter': 1000}",0.9554014937705988,0.0026646462392056866,3
+71,relu,"(4, 4)",0.01,1000,"{'activation': 'relu', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.01, 'max_iter': 1000}",0.9551807446278835,0.0028445525968193133,15
+72,relu,"(4, 4)",0.1,1000,"{'activation': 'relu', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 0.1, 'max_iter': 1000}",0.9537230651446293,0.0027435353096938557,32
+73,relu,"(4, 4)",1,1000,"{'activation': 'relu', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 1, 'max_iter': 1000}",0.5154069459593954,0.433686873088838,69
+74,relu,"(4, 4)",10,1000,"{'activation': 'relu', 'hidden_layer_sizes': (4, 4), 'learning_rate_init': 10, 'max_iter': 1000}",0.5342031035893436,0.2671015653912928,67
